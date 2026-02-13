@@ -3,7 +3,7 @@
 [![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi)](https://powerbi.microsoft.com/)
 [![View Dashboard](https://img.shields.io/badge/View-Live%20Dashboard-yellow?logo=powerbi)](https://app.powerbi.com/view?r=eyJrIjoiMzY5ZDdkYTQtNjNlYi00ZDU0LTljOGYtZDRmMzk5YzYwMTU3IiwidCI6ImJjZWYxYWJlLWVjZjgtNDMxNy1iM2FmLTY0NzQ3MmMwM2Y3OSJ9)
 [![SQL](https://img.shields.io/badge/SQL-Advanced%20Analytics-blue)](https://www.w3schools.com/sql/)
-[![Status](https://img.shields.io/badge/Project-Completed-brightgreen)]
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
 ---
 <img width="2099" height="1197" alt="Screenshot 2026-02-13 115028" src="https://github.com/user-attachments/assets/dd48da83-9994-4fab-8b6c-e32ffd3ca2ae" />
